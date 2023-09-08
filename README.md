@@ -5,4 +5,4 @@
 - 💬 Ortools.ipynb - Построение оптимального маршрута по точкам
 - predictions.ipynb - Предсказание кол-ва курьеров
 
-<img src="https://github.com/Sergey-Kit/Bootcamp_CDEK/Omsk.jpg" width=30% height=30%>
+<img src="https://github.com/Sergey-Kit/Bootcamp_CDEK/blob/main/Omsk.jpg" width=30% height=30%>
